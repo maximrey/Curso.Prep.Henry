@@ -17,3 +17,10 @@ img {
     font-size: 18px;
     margin: 50px;
 }
+
+div {
+    /*display: flex;*/
+    position:relative;
+    top: 200px;
+    left: 110px;
+}
